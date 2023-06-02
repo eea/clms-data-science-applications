@@ -34,8 +34,8 @@ To run the notebooks in this repository, please follow these installation instru
 1. Clone the repository by opening the terminal and executing the following command:
 
    ```
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/eea/clms-data-science-applications.git
+   cd clms-data-science-applications
    ```
 
 2. Create a Conda environment from the provided YAML file:
