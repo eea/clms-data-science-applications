@@ -8,4 +8,6 @@ The Notebooks were developed by the [European Topic Centre on Data Integration a
 
 ## Folders
 
-To do 
+The folder `datacubes-snow-monitoring` includes notebooks showcasing fundamental concepts of working with datacubes, using the EuroDataCube platform. Even though the notebooks are specific for this platform, the concepts covered in the notebooks apply to work with datacubes in general. The notebooks show working with datacubes using Snow Data as an example.
+
+The folder `ml-grassland-classification` covers a workflow using CLMS data to classify grassland. The main focus of the notebooks is the preparation of the data for the use in machine learning workflows. 
