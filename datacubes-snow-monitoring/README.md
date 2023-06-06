@@ -23,4 +23,11 @@ The notebooks are split like this:
 - Notebook 01: Analysing persistent snow cover, simple intro to datacubes
 - Notebook 02: Analysing fractional snow cover, showing on the fly temporal aggregation
 - Notebook 03: Analysing snow state, also showing on the fly temporal aggregation using different data
-- Notebook 04: Scaling up the workflow to larger spatial areas using batch processing
+- Notebook 04: Scaling up the workflow to larger spatial areas using batch processing  
+
+# How to run the Notebooks in Euro Data Cube
+The Notebooks can be run in [Euro Data Cube](https://eurodatacube.com/). An EDC account, EOxHub Workspace and EDC Sentinel Hub subscription is needed. (Free trial subscriptions are available)
+- Register for EDC account [here](https://eurodatacube.com/register) and activate the EOxHub Workspace.
+- Activate a free trial subscription of [EDC Sentinel Hub](https://eurodatacube.com/marketplace/services/edc_sentinel_hub).
+- Proceed to upload the Notebooks to EDC Jupyter Hub. 
+
